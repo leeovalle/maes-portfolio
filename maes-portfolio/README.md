@@ -30,7 +30,7 @@ This is a React application for Mae Rose, showcasing her portfolio, including ph
 
 Here's a walkthrough of implemented features:
 
-<img src='/src/assets/images/artist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/maes-portfolio/src/assets/images/artist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Setup and Installation
 
