@@ -2,6 +2,10 @@
 
 This is a React application for Mae Rose, showcasing her portfolio, including photos and videos of her performances, an about section, a booking section, and a responsive header with a hamburger menu for smaller screens.
 
+## Live Demo
+
+Visit the live portfolio website: [Mae Rose Portfolio](https://leeovalle.github.io/maes-portfolio/)
+
 ## Features
 
 - **Responsive Header**: A fixed header with a responsive navigation menu that turns into a hamburger icon on smaller screens.
