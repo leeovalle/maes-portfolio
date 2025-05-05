@@ -34,7 +34,7 @@ Visit the live portfolio website: [Mae Rose Portfolio](https://leeovalle.github.
 
 Here's a walkthrough of implemented features:
 
-<img src='/maes-portfolio/src/assets/images/mae.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/src/assets/images/mae.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Setup and Installation
 
